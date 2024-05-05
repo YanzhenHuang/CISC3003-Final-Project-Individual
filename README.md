@@ -6,7 +6,7 @@ GitHub Repo: (https://github.com/YanzhenHuang/CISC3003-Final-Project-Individual)
 ## Project Setup:
 1. Make sure you have installed XAMPP, and have the Apache Server & MySQL Server included.
 
-2. RUn the Apache Server and MySQL by clicking the start button in the XAMPP Control Panel.
+2. Run the Apache Server and MySQL by clicking the start button in the XAMPP Control Panel.
 
 3. Initialize Database. Open `localhost/phpmyadmin`, click "New" button on the left side to create a new database. Name this database as `shop_db`. This name is used for configuration in PHP.
 
