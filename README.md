@@ -1,6 +1,8 @@
 # CISC3003 Web Programming Project Assignment - Individual Part
 ## Chosen Project: A Simple Shopping Cart System by Mr. Web Designer
 
+GitHub Repo: (https://github.com/YanzhenHuang/CISC3003-Final-Project-Individual)
+
 ## Project Setup:
 1. Make sure you have installed XAMPP, and have the Apache Server & MySQL Server included.
 
